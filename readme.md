@@ -2,7 +2,7 @@
 
 ## Output
 
-[Click here to view the Quiz Application](https://codingbysahil.github.io/SMITFirstHackathon/)  <!-- Replace # with your actual output link -->
+[Click here to view the Quiz Application](https://codingbysahil.github.io/SMITFirstHackathon/) <!-- Replace # with your actual output link -->
 
 ## Objective
 
